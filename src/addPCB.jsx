@@ -75,7 +75,7 @@ function AddPCB() {
                     <button className='btn btn-dark m-4 text-white' data-bs-toggle='modal' data-bs-target='#myModal'>Add PCB</button>
                 </div>
             </div>
-            <div className='bg-white m-4'>
+            <div className='container-fluid bg-white m-4'>
                 <div className=''>
                     <input type='text' name='search' placeholder=' 🔍 Search here...  ' className='rounded w-50 pl-4 p-1 my-4 mx-2 border-1 border-muted bg-light'></input>                    
                 </div>
